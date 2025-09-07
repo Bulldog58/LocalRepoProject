@@ -1,0 +1,4 @@
+# LocalRepoProject
+git init
+git add hello.txt
+  
